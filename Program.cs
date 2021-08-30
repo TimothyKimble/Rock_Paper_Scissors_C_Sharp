@@ -6,10 +6,10 @@ namespace rockpaperscissorsC
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("What is your name? \n");
+      Console.WriteLine("What is your name?");
       string name = Console.ReadLine();
-      Console.WriteLine($"Hello {name} \n");
-      Console.WriteLine("Do you want to play Rock Paper Scissors with me? y/n \n");
+      Console.WriteLine($"\nHello {name}");
+      Console.WriteLine("Do you want to play Rock Paper Scissors with me? y/n");
       string playgame = Console.ReadLine().ToLower();
       Console.Clear();
 
@@ -23,7 +23,7 @@ namespace rockpaperscissorsC
         if (playgame == "y" || playgame == "yes")
         {
           Console.Clear();
-          Console.WriteLine($"Yay! Let's Play Rock Paper Scissors {name}! \n");
+          Console.WriteLine($"Yay! Let's Play Rock Paper Scissors! \n");
 
           while (playgame == "y" || playgame == "yes")
           {
@@ -31,7 +31,7 @@ namespace rockpaperscissorsC
             string[] computerChoices = { "ROCK", "PAPER", "SCISSORS" };
             Random random = new Random();
             int computer = random.Next(0, computerChoices.Length);
-            Console.WriteLine($"Choose your weapon {name}! (Rock Paper Scissors) \n");
+            Console.WriteLine($"Choose your weapon! (Rock Paper Scissors) \n");
             string playerWeapon = Console.ReadLine().ToUpper();
             Console.Clear();
             if (playerWeapon == "ROCK" || playerWeapon == "PAPER" || playerWeapon == "SCISSORS")

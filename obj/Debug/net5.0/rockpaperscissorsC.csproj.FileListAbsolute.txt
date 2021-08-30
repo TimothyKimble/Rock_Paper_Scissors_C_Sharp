@@ -1,0 +1,16 @@
+C:\source\codeworks\rockpaperscissorsC\bin\Debug\net5.0\rockpaperscissorsC.exe
+C:\source\codeworks\rockpaperscissorsC\bin\Debug\net5.0\rockpaperscissorsC.deps.json
+C:\source\codeworks\rockpaperscissorsC\bin\Debug\net5.0\rockpaperscissorsC.runtimeconfig.json
+C:\source\codeworks\rockpaperscissorsC\bin\Debug\net5.0\rockpaperscissorsC.runtimeconfig.dev.json
+C:\source\codeworks\rockpaperscissorsC\bin\Debug\net5.0\rockpaperscissorsC.dll
+C:\source\codeworks\rockpaperscissorsC\bin\Debug\net5.0\ref\rockpaperscissorsC.dll
+C:\source\codeworks\rockpaperscissorsC\bin\Debug\net5.0\rockpaperscissorsC.pdb
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.csproj.AssemblyReference.cache
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.AssemblyInfoInputs.cache
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.AssemblyInfo.cs
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.csproj.CoreCompileInputs.cache
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.dll
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\ref\rockpaperscissorsC.dll
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.pdb
+C:\source\codeworks\rockpaperscissorsC\obj\Debug\net5.0\rockpaperscissorsC.genruntimeconfig.cache

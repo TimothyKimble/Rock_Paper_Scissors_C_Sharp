@@ -94,6 +94,7 @@ namespace rockpaperscissorsC
             else
             {
               Console.WriteLine("You can't cheat! \n");
+              Console.Beep();
 
             }
           }
